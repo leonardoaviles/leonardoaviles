@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning .Net Core, React, Spring Boot.
 - 📫 How to reach me:
 -  Linkedin: Leonardo Aviles Meneses
--  Facebook: LeonardoAM129
+-  E-mail: leonardo.aviles.meneses@gmail.com
 
 <!---
 leonardoaviles/leonardoaviles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
